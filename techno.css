@@ -310,7 +310,7 @@ a.nav-link:active
     Home Newsfeed
 */
 
-.HomeNewsfeedHeader {
+.indexsfeedHeader {
     color: #f7b042;
     margin-left: 10px;
     margin: 0px;
@@ -318,7 +318,7 @@ a.nav-link:active
     padding-top: 10px;
 }
 
-.HomeNewsfeed {
+.indexsfeed {
     background-color: #008fab;
     height: 400px;
     margin-top:20px;
