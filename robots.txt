@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tjeerdkemp.github.io/sitemap.xml
